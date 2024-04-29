@@ -1,8 +1,13 @@
 body {
   color: navy;
+    font-family:arial
+}
+
+a {
+    color:blue
 }
 
 a:hover {
     background-color:yellow;
-    color:blue
+    color:red
 };
